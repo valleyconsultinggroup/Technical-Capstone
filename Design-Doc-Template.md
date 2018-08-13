@@ -1,13 +1,16 @@
-Project Title:
+# Project Title Here
+
 Author:
+
 Github Username:
+
 Landing Site:
 
 ### Revision History
 
-| Date        | Comments      | Author    |
-| ----------- | ------------- | --------- |
-| 08/12/2018  | Initial Draft | John Yang |
+| Date        | Comments      | Author    | Approved By |
+| ----------- | ------------- | --------- | ----------- |
+| 08/12/2018  | Initial Draft | John Yang | John Yang   |
 
 *To be completed at the beginning of development. (1-2 weeks)*
 
